@@ -1,2 +1,2 @@
 ### `Project Comperio`
-> Visualize the connections between Instagram followers and their interrelationships. Work in progress. Spring 2020.
+> Visualize the connections between Instagram followers and their interrelationships. Discontinued. Spring 2020.
