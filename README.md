@@ -1,2 +1,2 @@
 ## Project Comperio
-> Visualize the connections between Instagram followers and their interrelationships. Discontinued. Spring 2020.
+> Social network analysis tool. Discontinued. Spring 2020. Discontinued. Spring 2020.
