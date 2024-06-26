@@ -11,5 +11,6 @@
 [`selenium-py`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/selenium-py.md)
 [`xlwt`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/xlwt.md)
 [`xlrd`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/xlrd.md)
+[**`Excel`**](https://github.com/lxRbckl/lxRbckl/blob/main/Excel/README.md)
 
 # 
