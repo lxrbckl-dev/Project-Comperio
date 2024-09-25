@@ -1,4 +1,4 @@
-# Project Comperio
+# [Project Comperio](https://github.com/lxRbckl/Project-Comperio/wiki)
 > Social network analysis tool for Instagram. Discontinued. Spring 2020.
 
 ---
